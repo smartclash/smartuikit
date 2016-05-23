@@ -2205,7 +2205,7 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
   color: #bdc3c7;
 }
 .uk-table tbody tr.uk-active {
-  background: #f0f0f0;
+  background: #ffffff;
 }
 .uk-table-middle,
 .uk-table-middle td {
@@ -2218,7 +2218,7 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
   padding: 4px 8px;
 }
 .uk-table-hover tbody tr:hover {
-  background: #f0f0f0;
+  background: #ffffff;
 }
 .uk-form input,
 .uk-form select,
@@ -2336,9 +2336,9 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
 .uk-form input[type="search"]:focus,
 .uk-form input[type="tel"]:focus,
 .uk-form input[type="color"]:focus {
-  border-color: #99baca;
+  border-color: #fafafa;
   outline: 0;
-  background: #f5fbfe;
+  background: #ffffff;
   color: #000000;
 }
 .uk-form select:disabled,
@@ -4915,13 +4915,13 @@ a.uk-badge:hover {
   margin: 0;
   padding: 4px;
   border: 1px solid #bdc3c7;
-  background: #ecf0f1;
+  background: #fafafa;
   border-radius: 4px;
 }
 a.uk-thumbnail:hover,
 a.uk-thumbnail:focus {
   border-color: #869198;
-  background-color: #ecf0f1;
+  background-color: #ffffff;
   text-decoration: none;
   outline: none;
 }
