@@ -29,5 +29,5 @@ Easy, you can contribute within just click of buttons.
 
 ##Special thanks to 
 
-[Google Designs](https://www.google.com/design/spec/style/color.html#color-color-palette)
-[MaterialUI.co](http://www.materialui.co/flatuicolors)
+- [Google Designs](https://www.google.com/design/spec/style/color.html#color-color-palette)
+- [MaterialUI.co](http://www.materialui.co/flatuicolors)
