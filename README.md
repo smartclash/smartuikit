@@ -26,8 +26,3 @@ Easy, you can contribute within just click of buttons.
 - Upload the less file
 - Edit the theme
 - Make a pull request with new `LESS` file with both minified and un-compressed css files.
-
-##Special thanks to 
-
-- [Google Designs](https://www.google.com/design/spec/style/color.html#color-color-palette)
-- [MaterialUI.co](http://www.materialui.co/flatuicolors)
