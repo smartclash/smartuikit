@@ -15,5 +15,7 @@ If you are willing to make a contribution by designing website, make your design
 - [Skeleton.css](http://getskeleton.com/)
 - [Semantic-ui](http://semantic-ui.com/)
 - [Font awesome](http://fontawesome.io/)
+- [Google Designs](https://www.google.com/design/spec/style/color.html#color-color-palette)
+- [MaterialUI.co](http://www.materialui.co/flatuicolors)
 
 
