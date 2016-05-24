@@ -40,7 +40,7 @@ Easy, you can contribute within just click of buttons.
 - Upload the less file
 - Edit the theme
 - Make a pull request with new `LESS` file with both minified and un-compressed css files.
-- 
+
 ##Special thanks
 
 - [RawGit.com](https://rawgit.com/) for CDN
