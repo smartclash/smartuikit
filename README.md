@@ -13,23 +13,15 @@ No matter what, commericial project or just a hobby thing, you are free to use t
 
 ##Themes included as of now
 
-- Darkly 
-- Material (google inspired)
-- And more to come!
- 
-##Usage
+| Name          | Demo          | CDN   |
+| ------------- |:-------------:| -----:|
+| Material      | [***Click here***](http://smartincorp.github.io/smartuikit/demo/material/) | [Click here](http://smartincorp.github.io/smartuikit/#cdn) |
+| Pinky      | [***Click here***](http://smartincorp.github.io/smartuikit/demo/pinky/)      |   [Click here](http://smartincorp.github.io/smartuikit/#cdn) |
+| Darkly | [***Click here***](http://smartincorp.github.io/smartuikit/demo/darkly/)      |    [Click here](http://smartincorp.github.io/smartuikit/#cdn) |
 
-Copy paste the line from any of these themes below. (choose only one)
- 
-Material
-```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/smartincorp/smartuikit/1.1/material/uikit.min.css" type="text/css" />
-```
-Darkly
-```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/smartincorp/smartuikit/1.1/darkly/uikit.min.css" type="text/css" />
-```   
-And the documentation are as same as uikit's
+##Documentation
+
+Documentation for this whole theme pack can be found [***here***](http://getuikit.com/docs/core.html) :+1:
 
 ##Contribution
 
