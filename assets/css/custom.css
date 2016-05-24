@@ -93,6 +93,24 @@
   text-align: center;
 }
 
+/* CDN
+======================================================== */
+
+.cdn {
+  background-color: #f39c12;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  /*padding-bottom: 5rem;*/
+  text-align: center;
+  height:100vh;
+}
+
+.code {
+  color: #000000;
+}
+
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
