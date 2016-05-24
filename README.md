@@ -22,13 +22,13 @@ No matter what, commericial project or just a hobby thing, you are free to use t
 Copy paste the line from any of these themes below. (choose only one)
  
 Material
-
-    <link rel="stylesheet" href="https://cdn.rawgit.com/smartincorp/smartuikit/1.1/material/uikit.min.css" type="text/css" />
-   
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/smartincorp/smartuikit/1.1/material/uikit.min.css" type="text/css" />
+```
 Darkly
-
-    <link rel="stylesheet" href="https://cdn.rawgit.com/smartincorp/smartuikit/1.1/darkly/uikit.min.css" type="text/css" />
-    
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/smartincorp/smartuikit/1.1/darkly/uikit.min.css" type="text/css" />
+```   
 And the documentation are as same as uikit's
 
 ##Contribution
@@ -40,3 +40,7 @@ Easy, you can contribute within just click of buttons.
 - Upload the less file
 - Edit the theme
 - Make a pull request with new `LESS` file with both minified and un-compressed css files.
+- 
+##Special thanks
+
+- [RawGit.com](https://rawgit.com/) for CDN
