@@ -1,4 +1,15 @@
-html {
+/*!
+ * Smart UIKit for UIKit
+ *
+ * Built on UIKit
+ *
+ * Smart UIKit is licensed under the terms of the
+ * GPLv3.0 License
+ *
+ * @author    Karan sanjeev <smartclashcoc@gmail.com>
+ * @copyright 2016 Smart Incorporation
+ * @license   http://www.gnu.org/
+ */html {
   font: normal 14px / 20px "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
